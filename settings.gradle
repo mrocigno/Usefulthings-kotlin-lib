@@ -1,0 +1,2 @@
+include ':app', ':usefulthings-lib-kotlin'
+rootProject.name='Usefulthings-kotlin'

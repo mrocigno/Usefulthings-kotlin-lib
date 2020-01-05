@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ValidateEditText">
+        <attr name="mask" format="string"/>
+        <attr name="error_msg" format="string"/>
+        <attr name="compare_with" format="reference"/>
+        <attr name="required" format="boolean"/>
+        <attr name="validate_cpf" format="boolean"/>
+        <attr name="min_length" format="integer"/>
+        <attr name="show_errors" format="boolean"/>
+    </declare-styleable>
+</resources>
